@@ -26,8 +26,6 @@ pip install cryptography
    ```bash
    git clone [(https://github.com/solomiyaolekha/tls-cert-automation.git)](https://github.com/solomiyaolekha/tls-cert-automation.git)
    cd "Certs Automation"
-   
-   ### Приклад швидкого запуску (Quick Start)
 
 Якщо ви хочете перевірити конкретні домени з власним порогом днів і автоматично підтвердити всі дії, використайте цю команду:
 
