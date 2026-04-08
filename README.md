@@ -24,7 +24,7 @@ pip install cryptography
 
 1. Клонуйте репозиторій:
    ```bash
-   git clone [https://github.com/ВАШЕ_ІМ'Я/certs-automation.git](https://github.com/ВАШЕ_ІМ'Я/certs-automation.git)
+   git clone [(https://github.com/solomiyaolekha/tls-cert-automation.git)](https://github.com/solomiyaolekha/tls-cert-automation.git)
    cd "Certs Automation"
    
    ### Приклад швидкого запуску (Quick Start)
