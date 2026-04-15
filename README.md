@@ -32,9 +32,9 @@
    cd tls-cert-automation
    ```
 
-3. **Встановіть необхідну бібліотеку:**
+3. **Встановіть залежності:**
    ```bash
-   pip install cryptography
+   pip install -r requirements.txt
    ```
 
 ---
